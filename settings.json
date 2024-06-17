@@ -1,0 +1,12 @@
+{
+    "root": "",
+    "date_format": "%Y-%m-%d",
+    "storage_format": "xlsx",
+    "cookie": "",
+    "chunk": 524288,
+    "max_retry": 5,
+    "max_pages": 10,
+    "default_mode": 0,
+    "api_key": "",
+    "secret_key": ""
+}
